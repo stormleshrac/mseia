@@ -32,7 +32,7 @@ from os.path import exists
 
 listproxy = []
 
-user_id = 2055672924
+user_id = 1291931851
 	
 
 class CallingUpload:
